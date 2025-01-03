@@ -48,4 +48,4 @@ You can explore these day-wise files by navigating to the corresponding day fold
 - Contribute to open-source C projects.
 
 ## 📍 Let's Connect!
-Feel free to follow my coding journey on platforms like [[Dev.to](#)](https://dev.to/adhyanjain2512), [[Medium](#)](https://medium.com/@adhyanjain2006), or reach out to me on [[X/Twitter](#).](https://x.com/adhyanjain2512)
+Feel free to follow my coding journey on platforms like [[Dev.to](#)](https://dev.to/adhyanjain2512), [[Medium](#)](https://medium.com/@adhyanjain2006), or reach out to me on [[X/Twitter](#).](https://x.com/adhyanjain2512), [[LinkedIn](#)](https://www.linkedin.com/in/adhyan-jain-5703411b8/).
