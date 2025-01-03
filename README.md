@@ -6,23 +6,23 @@ Welcome to my **C-Code Vault**! This repository serves as a collection of my C p
 The goal of this repository is to showcase my learning and progress in C programming. I will build a strong foundation in C, which will later assist me in learning more advanced topics like Data Structures and Algorithms (DSA) in C++ and other areas of software development.
 
 ## 🗓️ Learning Timeline
-This journey will be broken down into **day-wise learning** with corresponding practice exercises. The main areas I will be covering include:
-- Core C programming concepts.
-- Data types, variables, functions, and operators.
-- Control statements, loops, arrays, and pointers.
-- Advanced topics like memory management, file handling, and structures.
-- Mini-projects that solidify my understanding of C.
+### Day 1: Introduction to C
+- **Topics Covered:** Basics of C programming, first C program, compilation process, variables, data types, and input/output functions (`printf`, `scanf`).
+- **Practice:** Writing programs for basic operations (e.g., "Hello, World!", swapping numbers, and simple arithmetic).
+
+### Day 2: Control Statements
+- **Topics Covered:** Conditional statements (`if`, `if-else`, `switch-case`) and logical operators (`&&`, `||`, `!`).
+- **Practice:** Programs for decision-making tasks (e.g., largest and smallest of 3 numbers, grade calculator, leap year checker, and quadratic equation solver).
+
+### Day 3: Loops
+- **Topics Covered:** Loops (`for`, `while`, `do-while`), nested loops, and flow control using `break` and `continue`.
+- **Practice:** Writing programs for repetitive tasks (e.g., multiplication tables, Fibonacci sequence, printing patterns, factorial calculator, prime number check, and GCD/LCM calculator).
 
 ## 🏆 Projects & Milestones
-- **Day 1:** Basics of C Programming (variables, data types, and I/O).
-- **Day 2:** Control Statements (if-else, switch-case, logical operators).
-- **Upcoming Days:** 
-  - Loops (for, while, do-while).
-  - Arrays and Strings.
-  - Functions and Recursion.
-  - Pointers and Memory Management.
-  - File Handling.
-  - Implementing projects (e.g., basic calculator, student record system).
+### Projects & Milestones
+- **Day 1:** Basics of C Programming
+- **Day 2:** Conditional Statements and Logical Operators
+- **Day 3:** Loops and Flow Control
 
 ## 🛠️ Tools & Setup
 - **IDE:** Code::Blocks, Visual Studio Code, or any preferred IDE.
@@ -31,8 +31,9 @@ This journey will be broken down into **day-wise learning** with corresponding p
 - **GitHub Pages:** A live version of some projects (future plans).
 
 ## 🔄 How to Contribute
-- Feel free to fork the repository and contribute improvements, bug fixes, or enhancements to any of the projects I work on.
-- If you have any suggestions or ideas, open an issue or pull request.
+## How to Contribute
+- Feel free to fork this repository and contribute improvements, bug fixes, or enhancements to any of the projects I work on.
+- If you have suggestions or ideas, open an issue or pull request!
 
 ## 📈 Progress Tracker
 To track the progress of my learning, I will create day-wise markdown files for each day of my journey. These files will contain:
@@ -43,6 +44,7 @@ To track the progress of my learning, I will create day-wise markdown files for 
 You can explore these day-wise files by navigating to the corresponding day folders in this repository.
 
 ## 🔮 Future Goals
+## Future Goals
 - Master C++ programming for advanced DSA concepts.
 - Implement complex algorithms and data structures in C.
 - Contribute to open-source C projects.
