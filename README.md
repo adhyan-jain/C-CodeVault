@@ -29,7 +29,7 @@ The goal of this repository is to showcase my learning and progress in C program
 - **Day 2:** Conditional Statements and Logical Operators
 - **Day 3:** Loops and Flow Control
 - **Day 4:** Arrays and Array Operations
-- 
+
 ## 🛠️ Tools & Setup
 - **IDE:** Code::Blocks, Visual Studio Code, or any preferred IDE.
 - **Compiler:** GCC or MinGW for compiling C programs.
