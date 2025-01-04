@@ -17,13 +17,19 @@ The goal of this repository is to showcase my learning and progress in C program
 ### Day 3: Loops
 - **Topics Covered:** Loops (`for`, `while`, `do-while`), nested loops, and flow control using `break` and `continue`.
 - **Practice:** Writing programs for repetitive tasks (e.g., multiplication tables, Fibonacci sequence, printing patterns, factorial calculator, prime number check, and GCD/LCM calculator).
+- Here are the updated sections with Day 5 removed:
+
+#### Day 4: Arrays  
+**Topics Covered:** Introduction to arrays, 1D arrays (declaration, initialization, traversal), and basic operations.  
+**Practice:** Finding the sum and average of an array, reversing an array without using a second array, and implementing binary search in an array.
 
 ## 🏆 Projects & Milestones
 ### Projects & Milestones
 - **Day 1:** Basics of C Programming
 - **Day 2:** Conditional Statements and Logical Operators
 - **Day 3:** Loops and Flow Control
-
+- **Day 4:** Arrays and Array Operations
+- 
 ## 🛠️ Tools & Setup
 - **IDE:** Code::Blocks, Visual Studio Code, or any preferred IDE.
 - **Compiler:** GCC or MinGW for compiling C programs.
