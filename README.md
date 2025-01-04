@@ -19,9 +19,9 @@ The goal of this repository is to showcase my learning and progress in C program
 - **Practice:** Writing programs for repetitive tasks (e.g., multiplication tables, Fibonacci sequence, printing patterns, factorial calculator, prime number check, and GCD/LCM calculator).
 - Here are the updated sections with Day 5 removed:
 
-#### Day 4: Arrays  
-**Topics Covered:** Introduction to arrays, 1D arrays (declaration, initialization, traversal), and basic operations.  
-**Practice:** Finding the sum and average of an array, reversing an array without using a second array, and implementing binary search in an array.
+### Day 4: Arrays 
+- **Topics Covered:** Introduction to arrays, 1D arrays (declaration, initialization, traversal), and basic operations.  
+- **Practice:** Finding the sum and average of an array, reversing an array without using a second array, and implementing binary search in an array.
 
 ## 🏆 Projects & Milestones
 ### Projects & Milestones
