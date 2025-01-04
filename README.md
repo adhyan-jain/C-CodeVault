@@ -36,7 +36,6 @@ The goal of this repository is to showcase my learning and progress in C program
 - **Version Control:** Git for tracking my progress.
 - **GitHub Pages:** A live version of some projects (future plans).
 
-## 🔄 How to Contribute
 ## How to Contribute
 - Feel free to fork this repository and contribute improvements, bug fixes, or enhancements to any of the projects I work on.
 - If you have suggestions or ideas, open an issue or pull request!
