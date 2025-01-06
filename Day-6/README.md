@@ -1,9 +1,14 @@
 Day 6: Functions
+
 Learning:
 
 •	User-defined functions: Declaration, definition, and calling.
+
 •	Rescursion
+
 •	Function parameters: passing by value and reference.
+
+
 Practice:
 1.	Calculate the factorial of a number.
 2.	Check if a number is prime.
