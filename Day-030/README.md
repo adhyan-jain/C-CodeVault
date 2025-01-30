@@ -1,3 +1,5 @@
 Day-30
 
-Practice
+1. Bit Manipulation Calculator
+
+2. Custom malloc & free Implementation
